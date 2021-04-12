@@ -1,0 +1,27 @@
+html, head{
+    margin:0;
+    font-size: 15px;
+}
+body{
+    width:50%;
+    margin:0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+    width: 360px;
+}
+#inputfield{
+    width:250px;
+    height:45px;
+    vertical-align: middle;
+    font-size: 20px;
+}
+#addbut{
+    width:30px;
+    height:45px;
+    vertical-align: middle;
+    font-size: 25px;
+}
+.todos{
+    margin-top: 25px;
+}
